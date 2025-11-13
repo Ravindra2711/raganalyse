@@ -1,0 +1,4 @@
+question,context,priority
+"What is Python?","Programming language context","high"
+"Explain machine learning","AI and ML context","medium"
+"How does Docker work?","Container technology context","high"
